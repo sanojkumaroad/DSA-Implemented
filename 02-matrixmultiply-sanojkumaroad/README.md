@@ -44,7 +44,7 @@ do a `git commit` and `git push`.)
     If `C.at(i, j)` is the value of `C` in row `i` and column `j` of `C`, then `C.at(i, j) += A.at(i, k) * B.at(k, j)` for all index values of `k`.
 
   See (https://en.wikipedia.org/wiki/Matrix_multiplication) for a discussion on how to multiply two matrices and the need for compatible dimensions.
-  
+ 
 
 **Programming Notes:**
 
