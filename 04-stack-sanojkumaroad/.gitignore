@@ -1,3 +1,6 @@
+# Project Executable files
+josephous
+
 ### C++ ###
 # Prerequisites
 *.d
@@ -22,7 +25,3 @@
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
-
-# Project Executable files
-josephous
-
